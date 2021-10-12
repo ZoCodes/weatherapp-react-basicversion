@@ -16,8 +16,9 @@ export default function App() {
             rel="noopener noreferrer"
           >
             Zoe Blogg
-          </a>{" "}
-          is{" "}
+          </a>
+          <br />
+          Find it{" "}
           <a
             href="https://github.com/ZoCodes/weatherapp-react-basicversion"
             target="_blank"
