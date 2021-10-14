@@ -15,24 +15,24 @@ export default function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Zoe Blogg
+            Zoë Blogg
           </a>
           <br />
-          Find it{" "}
+          Find it open-sourced on{" "}
           <a
             href="https://github.com/ZoCodes/weatherapp-react-basicversion"
             target="_blank"
             rel="noopener noreferrer"
           >
-            open-sourced on GitHub
+            GitHub
           </a>{" "}
-          and{" "}
+          and hosted on{" "}
           <a
             href="https://zocodes-react-basicweatherapp.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            hosted on Netlify
+            Netlify
           </a>
         </footer>
       </div>
